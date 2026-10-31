@@ -1,0 +1,4 @@
+theia@theia-c0b05dj:/home/project$ curl -s https://api.github.com/repos/Braman1512/mcino-Intro
+duction-to-Git-and-GitHub | jq -r '.parent.clon
+e_url'
+https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git
