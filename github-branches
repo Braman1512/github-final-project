@@ -1,0 +1,6 @@
+theia@theia-c0b05dj:/home/project/mcino-Introdu
+ction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert 3357ec8 Revert "Updated Footer to 2023"
+  bug-fix-typo   2786415 Updated Footer to 2023
+  main           2786415 [origin/main: ahead 1] Updated Footer to 2023
+https://github.com/Braman1512/mcino-Introduction-to-Git-and-GitHub/branches
